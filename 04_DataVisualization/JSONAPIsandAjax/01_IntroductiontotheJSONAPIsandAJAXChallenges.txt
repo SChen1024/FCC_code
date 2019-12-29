@@ -1,0 +1,22 @@
+Introduction to the JSON APIs and AJAX Challenges
+Passed
+Handle Click Events with JavaScript using the onclick property
+Passed
+Change Text with click Events
+Passed
+Get JSON with the JavaScript XMLHttpRequest Method
+Passed
+Get JSON with the JavaScript fetch method
+Passed
+Access the JSON Data from an API
+Passed
+Convert JSON Data to HTML
+Passed
+Render Images from Data Sources
+Passed
+Pre-filter JSON to Get the Data You Need
+Passed
+Get Geolocation Data to Find A User's GPS Coordinates
+Passed
+Post Data with the JavaScript XMLHttpRequest Method
+

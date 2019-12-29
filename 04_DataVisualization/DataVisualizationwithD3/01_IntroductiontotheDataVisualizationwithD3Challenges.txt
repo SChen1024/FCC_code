@@ -1,0 +1,60 @@
+Introduction to the Data Visualization with D3 Challenges
+Passed
+Add Document Elements with D3
+Passed
+Select a Group of Elements with D3
+Passed
+Work with Data in D3
+Passed
+Work with Dynamic Data in D3
+Passed
+Add Inline Styling to Elements
+Passed
+Change Styles Based on Data
+Passed
+Add Classes with D3
+Passed
+Update the Height of an Element Dynamically
+Passed
+Change the Presentation of a Bar Chart
+Passed
+Learn About SVG in D3
+Passed
+Display Shapes with SVG
+Passed
+Create a Bar for Each Data Point in the Set
+Passed
+Dynamically Set the Coordinates for Each Bar
+Passed
+Dynamically Change the Height of Each Bar
+Passed
+Invert SVG Elements
+Passed
+Change the Color of an SVG Element
+Passed
+Add Labels to D3 Elements
+Passed
+Style D3 Labels
+Passed
+Add a Hover Effect to a D3 Element
+Passed
+Add a Tooltip to a D3 Element
+Passed
+Create a Scatterplot with SVG Circles
+Passed
+Add Attributes to the Circle Elements
+Passed
+Add Labels to Scatter Plot Circles
+Passed
+Create a Linear Scale with D3
+Passed
+Set a Domain and a Range on a Scale
+Passed
+Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset
+Passed
+Use Dynamic Scales
+Passed
+Use a Pre-Defined Scale to Place Elements
+Passed
+Add Axes to a Visualization
+
